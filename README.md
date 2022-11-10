@@ -2,11 +2,10 @@
 
 **温馨提示：** 之前所有发布至**JCenter**的开源库，如果当前库最新版本未迁移至**Maven Central**，理论上都可以使用**Jit Pack**仓库
 
-![GuoYangGit github stats](https://github-readme-stats.vercel.app/api?username=GuoYangGit&show_icons=true&include_all_commits=true&hide=issues,prs)
-
 <!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoYangGit&layout=compact&hide=html,JavaScript,CSS)
+[在你的 README 中获取动态生成的 GitHub 统计信息！](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
 -->
+![GuoYangGit github stats](https://github-readme-stats.vercel.app/api?username=GuoYangGit&show_icons=true&include_all_commits=true&hide=issues,prs)
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────────────────────────┐
