@@ -1,12 +1,11 @@
-### GuoYangGit GitHub
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Welcome+to+GuoYangGit)](https://git.io/typing-svg)
 
 **温馨提示：** 之前所有发布至**JCenter**的开源库，如果当前库最新版本未迁移至**Maven Central**，理论上都可以使用**Jit Pack**仓库
 
 ![GuoYangGit github stats](https://github-readme-stats.vercel.app/api?username=GuoYangGit&show_icons=true&include_all_commits=true&hide=issues,prs)
 
-
 <!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenly1314&layout=compact&hide=html,JavaScript,CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoYangGit&layout=compact&hide=html,JavaScript,CSS)
 -->
 
 ```
